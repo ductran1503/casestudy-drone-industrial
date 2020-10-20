@@ -1,0 +1,82 @@
+\contentsline {section}{\numberline {1}Introduction}{3}
+\contentsline {section}{\numberline {2}Summary}{3}
+\contentsline {paragraph}{}{3}
+\contentsline {paragraph}{}{3}
+\contentsline {paragraph}{}{3}
+\contentsline {paragraph}{}{3}
+\contentsline {section}{\numberline {3}Operation description}{3}
+\contentsline {subsection}{\numberline {3.1}Organization overview}{3}
+\contentsline {subsubsection}{\numberline {3.1.1}Safety and Cyber-security}{3}
+\contentsline {paragraph}{}{3}
+\contentsline {subsubsection}{\numberline {3.1.2}Design and Production}{3}
+\contentsline {paragraph}{}{3}
+\contentsline {subsubsection}{\numberline {3.1.3}Screw Training}{3}
+\contentsline {subsubsection}{\numberline {3.1.4}Maintenance}{4}
+\contentsline {subsubsection}{\numberline {3.1.5}Crew}{4}
+\contentsline {paragraph}{}{4}
+\contentsline {subparagraph}{Pre-flight}{4}
+\contentsline {subparagraph}{Flight}{4}
+\contentsline {subparagraph}{Post - flight}{4}
+\contentsline {subsubsection}{\numberline {3.1.6}UAS Configuration Management}{4}
+\contentsline {paragraph}{}{4}
+\contentsline {paragraph}{}{4}
+\contentsline {paragraph}{}{4}
+\contentsline {subsection}{\numberline {3.2}Operational procedure description}{5}
+\contentsline {paragraph}{}{5}
+\contentsline {paragraph}{}{5}
+\contentsline {paragraph}{}{5}
+\contentsline {subsubsection}{\numberline {3.2.1}Standard operating procedures}{5}
+\contentsline {paragraph}{Pre-flight procedures}{5}
+\contentsline {subparagraph}{Operating site location}{5}
+\contentsline {subparagraph}{Preparation and correct assembly of UAV}{5}
+\contentsline {subparagraph}{Pre-flight checks on UAS and equipment}{5}
+\contentsline {paragraph}{Flight procedures}{5}
+\contentsline {subparagraph}{Take-off}{5}
+\contentsline {paragraph}{}{5}
+\contentsline {paragraph}{}{5}
+\contentsline {subparagraph}{In-flight}{5}
+\contentsline {paragraph}{}{6}
+\contentsline {paragraph}{}{6}
+\contentsline {paragraph}{}{6}
+\contentsline {subparagraph}{Landing}{6}
+\contentsline {paragraph}{}{6}
+\contentsline {paragraph}{}{6}
+\contentsline {paragraph}{Post-flight}{6}
+\contentsline {paragraph}{}{6}
+\contentsline {paragraph}{}{6}
+\contentsline {paragraph}{}{6}
+\contentsline {paragraph}{}{6}
+\contentsline {subsubsection}{\numberline {3.2.2}Abnormal operation and emergency procedures}{6}
+\contentsline {subparagraph}{Malfunctions}{6}
+\contentsline {paragraph}{}{6}
+\contentsline {paragraph}{}{6}
+\contentsline {subparagraph}{Lost of control}{6}
+\contentsline {paragraph}{}{6}
+\contentsline {subparagraph}{Change in Weather}{6}
+\contentsline {paragraph}{}{6}
+\contentsline {subparagraph}{Fire}{6}
+\contentsline {paragraph}{}{6}
+\contentsline {subparagraph}{Designated Landing Area Compromised }{7}
+\contentsline {paragraph}{}{7}
+\contentsline {section}{\numberline {4}UAS description}{7}
+\contentsline {subsection}{\numberline {4.1}Ground Station}{7}
+\contentsline {subsubsection}{\numberline {4.1.1}Ground control station computer}{7}
+\contentsline {subsubsection}{\numberline {4.1.2}Joystick 1}{7}
+\contentsline {subsubsection}{\numberline {4.1.3}Fail-safe button}{7}
+\contentsline {subsubsection}{\numberline {4.1.4}Module Com 1 \& Com 2 module}{8}
+\contentsline {subsubsection}{\numberline {4.1.5}Package}{8}
+\contentsline {subsubsection}{\numberline {4.1.6}Video screen}{8}
+\contentsline {subsubsection}{\numberline {4.1.7}Joystick 2}{8}
+\contentsline {subsubsection}{\numberline {4.1.8}Com 3 module}{8}
+\contentsline {subsection}{\numberline {4.2}Aircraft}{8}
+\contentsline {subsubsection}{\numberline {4.2.1}Autopilot}{8}
+\contentsline {subsubsection}{\numberline {4.2.2}Fail-safe module}{8}
+\contentsline {subsubsection}{\numberline {4.2.3}GPS modules}{8}
+\contentsline {subsubsection}{\numberline {4.2.4} Com 1 \& Com 2 modules}{9}
+\contentsline {subsubsection}{\numberline {4.2.5}Package}{9}
+\contentsline {subsubsection}{\numberline {4.2.6}Power board}{9}
+\contentsline {subsection}{\numberline {4.3}Communication}{9}
+\contentsline {subsubsection}{\numberline {4.3.1}Com 1 \& Com 2}{9}
+\contentsline {subsubsection}{\numberline {4.3.2}Com 3}{9}
+\contentsline {subsection}{\numberline {4.4}Supplemental Cybersecurity features}{9}
+\contentsline {subsubsection}{\numberline {4.4.1}Autopilot software integrity}{9}
